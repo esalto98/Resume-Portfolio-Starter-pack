@@ -15,7 +15,7 @@
       "zip": "W3B D3V"
     },
     "website": "www.eriksalto.com",
-    "resumedownload": "https://www.linkedin.com/in/saltoe",
+    "resumedownload": "https://github.com/esalto98/resume/blob/main/resume-v4.0.pdf",
     "social": [
       
       {
@@ -58,6 +58,12 @@
     ],
     "work": [
       {
+        "company": "American Express",
+        "title": "Software Engineer Intern",
+        "years": "Jan 2022 - Present",
+        "description": "Collaborated with 2 team members at american express to showcase authorization through the use of JWT within graphQL layer, Technologies used : javascript, graphQL, Apollo-server, npm, node.js, express-middleware, GitHub, jwt, postman"
+      },
+      {
         "company": "Asurion",
         "title": "Fraud Software Engineer Intern",
         "years": "May 2021 - Aug 2021",
@@ -82,8 +88,8 @@
         "level": "65%"
       },
       {
-        "name": "AWS",
-        "level": "40%"
+        "name": "Java",
+        "level": "65%"
       }
     ]
   },
