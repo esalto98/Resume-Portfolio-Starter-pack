@@ -2,7 +2,7 @@
   "main": {
     "name": "Erik Salto",
     "occupation": "Sofware Enginner",
-    "description": "back-end software engineer",
+    "description": "Back-end software engineer",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Erik! I've been coding for over 4 years now. As a back-end developer and soon full-stack.",
     "contactmessage": "Get in touch with me!",
@@ -15,7 +15,7 @@
       "zip": "W3B D3V"
     },
     "website": "www.eriksalto.com",
-    "resumedownload": "https://github.com/esalto98/resume/blob/main/resume-v6.1.pdf",
+    "resumedownload": "https://github.com/esalto98/resume/blob/main/Resume%20v7.pdf",
     "social": [
       
       {
